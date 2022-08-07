@@ -1,6 +1,7 @@
 # PySpark_Clustering_Regression_Well_Logs
 A PySpark package for clustering and regression of well logs 
 In this package, I use PySpark to do data cleaning, clustering, and then regression on more than 20 wells. I use MLLib.
+This work is not published yet, but we have other publication associated with these data. The PDF files are included. Please cite our papers if you use methodology presented here. 
 
 Steps:
 
